@@ -5,7 +5,7 @@ export const venues = [
     description: 'An elegant space perfect for large conferences and formal events',
     capacity: 500,
     pricePerHour: 1000,
-    imageUrl: '/src/assets/KPimages/hall.jpg',
+    imageUrl: '/images/KPimages/hall.jpg',
     amenities: ['Stage', 'Professional Sound System', 'LED Screens', 'Banquet Setup']
   },
   {
@@ -14,7 +14,7 @@ export const venues = [
     description: 'Modern meeting space ideal for corporate gatherings',
     capacity: 50,
     pricePerHour: 200,
-    imageUrl: '/src/assets/KPimages/downvip.jpg',
+    imageUrl: '/images/KPimages/downvip.jpg',
     amenities: ['Video Conferencing', 'Whiteboard', 'Coffee Service', 'High-speed WiFi']
   },
   {
@@ -23,7 +23,7 @@ export const venues = [
     description: 'Versatile space for concerts, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/outside 2.jpg',
+    imageUrl: '/images/KPimages/outside 2.jpg',
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
@@ -32,7 +32,7 @@ export const venues = [
     description: 'Versatile space for concerts, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/outside1.jpg',
+    imageUrl: '/images/KPimages/outside1.jpg',
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
@@ -41,7 +41,7 @@ export const venues = [
     description: 'Versatile space for small events, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/outside1 - Copy.jpg',
+    imageUrl: '/images/KPimages/outside1 - Copy.jpg',
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
@@ -50,7 +50,7 @@ export const venues = [
     description: 'Versatile space for concerts, shows, and social events',
     capacity: 15,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/small lapa.jpg',
+    imageUrl: '/images/KPimages/small lapa.jpg',
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   }
 ];
