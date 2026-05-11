@@ -1,3 +1,9 @@
+import downvip from '../assets/KPimages/downvip.jpg';
+import outside2 from '../assets/KPimages/outside 2.jpg';
+import outside1 from '../assets/KPimages/outside1.jpg';
+import outsidePrivate from '../assets/KPimages/outside1 - Copy.jpg';
+import smallLapa from '../assets/KPimages/small lapa.jpg';
+
 export const venues = [
   {
     id: '1',
@@ -5,7 +11,7 @@ export const venues = [
     description: 'An elegant space perfect for large conferences and formal events',
     capacity: 500,
     pricePerHour: 1000,
-    imageUrl:  '/src/assets/KPimages/downvip.jpg',,
+    imageUrl: downvip,
     amenities: ['Stage', 'Professional Sound System', 'LED Screens', 'Banquet Setup']
   },
   {
@@ -14,7 +20,7 @@ export const venues = [
     description: 'Modern meeting space ideal for corporate gatherings',
     capacity: 50,
     pricePerHour: 200,
-    imageUrl: '/src/assets/KPimages/downvip.jpg',
+    imageUrl: downvip,
     amenities: ['Video Conferencing', 'Whiteboard', 'Coffee Service', 'High-speed WiFi']
   },
   {
@@ -23,7 +29,7 @@ export const venues = [
     description: 'Versatile space for concerts, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/outside 2.jpg',
+    imageUrl: outside2,
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
@@ -32,7 +38,7 @@ export const venues = [
     description: 'Versatile space for concerts, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/outside1.jpg',
+    imageUrl: outside1,
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
@@ -41,7 +47,7 @@ export const venues = [
     description: 'Versatile space for small events, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/outside1 - Copy.jpg',
+    imageUrl: outsidePrivate,
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
@@ -50,7 +56,7 @@ export const venues = [
     description: 'Versatile space for concerts, shows, and social events',
     capacity: 15,
     pricePerHour: 800,
-    imageUrl: '/src/assets/KPimages/small lapa.jpg',
+    imageUrl: smallLapa,
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   }
 ];
