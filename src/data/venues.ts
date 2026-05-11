@@ -5,7 +5,7 @@ export const venues = [
     description: 'An elegant space perfect for large conferences and formal events',
     capacity: 500,
     pricePerHour: 1000,
-    imageUrl: '/src/assets/KPimages/downvip.jpg',
+    imageUrl: '../assets/KPimages/Kgalala images  13.jpg',
     amenities: ['Stage', 'Professional Sound System', 'LED Screens', 'Banquet Setup']
   },
   {
