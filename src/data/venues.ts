@@ -41,7 +41,7 @@ export const venues = [
     description: 'Versatile space for small events, shows, and social events',
     capacity: 300,
     pricePerHour: 800,
-    imageUrl: '/images/KPimages/outside1 - Copy.jpg',
+    imageUrl: '/images/KPimages/outside11.jpg',
     amenities: ['Stage', 'Dance Floor', 'Bar Setup', 'Lighting System']
   },
   {
